@@ -1,0 +1,36 @@
+{
+  "name": "emoji-text-replacements",
+  "description": "macOS text replacements for emoji",
+  "homepage": "https://github.com/tashian/emoji-text-replacements",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "author": {
+    "email": "carl@tashian.com",
+    "name": "Carl Tashian",
+    "url": "https://tashian.com/carl"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tashian/emoji-text-replacements.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tashian/emojis-text-replacements/issues"
+  },
+  "keywords": [
+    "emoji",
+    "list",
+    "macos"
+  ],
+  "engines": {
+    "node": ">= 7"
+  },
+  "scripts": {
+    "build": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "emojis-keywords": "^2.0.0",
+    "emojis-list": "^2.1.0",
+    "lodash": "^4.17.4"
+  }
+}
