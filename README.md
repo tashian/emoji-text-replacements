@@ -7,8 +7,11 @@ Inspired by [@fredbenenson](https://twitter.com/fredbenenson) and [@anildash](ht
 
 ## Installation
 
-To install, [download this plist file](https://raw.githubusercontent.com/tashian/emoji-text-replacements/master/dist/emoji.plist) and drag it into the Text Replacements list in the Keyboard prefs pane shown above.
-Enjoy your new emoji shortcuts.
+To install:
+
+1. Backup your current text replacements by [following Apple's directions](https://support.apple.com/en-us/HT204006)
+2. [Download this plist file](https://raw.githubusercontent.com/tashian/emoji-text-replacements/master/dist/emoji.plist) and drag it into the Text Replacements list in the Keyboard prefs pane shown above.
+3. Enjoy your new emoji text subtitutions.
 
 ## Building
 
