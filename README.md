@@ -9,7 +9,7 @@ Inspired by [@fredbenenson](https://twitter.com/fredbenenson) and [@anildash](ht
 
 To install:
 
-1. Backup your current text replacements by [following Apple's directions](https://support.apple.com/en-us/HT204006)
+1. Backup your current text replacements by [following Apple's directions](https://support.apple.com/guide/mac-help/back-up-and-share-text-replacements-on-mac-mchl2a7bd795/mac)
 2. [Download this plist file](https://raw.githubusercontent.com/tashian/emoji-text-replacements/master/dist/emoji.plist) and drag it into the Text Replacements list in the Keyboard prefs pane shown above.
 3. Enjoy your new emoji text subtitutions.
 
